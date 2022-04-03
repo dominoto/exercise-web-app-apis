@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Starjedi';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Starjedi'), url('Starjedi.ttf') format('truetype');
+    }
+
+    h1 {
+        font-family: 'Starjedi';
+        font-weight: 200;
+        color: #fbff00;
+    }
