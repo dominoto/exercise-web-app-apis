@@ -1,3 +1,6 @@
+Just a simple exercise in trying to use data from an API. I am pulling all the people from https://swapi.py4e.com/api/people/ and making it possible to filter them by name or gender.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
