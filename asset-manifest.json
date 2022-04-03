@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/exercise-web-app-apis/static/css/main.57fc57e0.css",
-    "main.js": "/exercise-web-app-apis/static/js/main.376c9822.js",
+    "main.js": "/exercise-web-app-apis/static/js/main.d01d7a08.js",
     "static/js/787.1d36aee9.chunk.js": "/exercise-web-app-apis/static/js/787.1d36aee9.chunk.js",
     "static/media/Starjedi.ttf": "/exercise-web-app-apis/static/media/Starjedi.8d577dc1e1755c4860f3.ttf",
     "index.html": "/exercise-web-app-apis/index.html",
     "main.57fc57e0.css.map": "/exercise-web-app-apis/static/css/main.57fc57e0.css.map",
-    "main.376c9822.js.map": "/exercise-web-app-apis/static/js/main.376c9822.js.map",
+    "main.d01d7a08.js.map": "/exercise-web-app-apis/static/js/main.d01d7a08.js.map",
     "787.1d36aee9.chunk.js.map": "/exercise-web-app-apis/static/js/787.1d36aee9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.57fc57e0.css",
-    "static/js/main.376c9822.js"
+    "static/js/main.d01d7a08.js"
   ]
 }
